@@ -14,6 +14,9 @@
     "hanni": "^1.0.9",
     "pnpm": "^10.26.2"
   },
+    "devDependencies": {
+    "bun-types": "latest"
+  },
   "engines": {
     "bun": ">=1.0.0"
   },
