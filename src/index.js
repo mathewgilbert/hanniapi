@@ -24,7 +24,4 @@ app.get('/', c => {
     hidden: true
 })
 
-app.listen(3000, () => {
-    console.log('Server running → http://localhost:3000')
-    console.log('Swagger docs → http://localhost:3000/docs')
-})
+app.listen(3000)
