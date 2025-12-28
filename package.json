@@ -1,0 +1,22 @@
+{
+  "name": "hanniapi",
+  "version": "0.1.0",
+  "description": "Minimal Hanni.js project with Swagger, Tailwind and Font Awesome",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "bun src/index.js",
+    "dev": "bun --watch src/index.js",
+    "test": "bun test_hanni.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.2",
+    "hanni": "^1.0.9",
+    "pnpm": "^10.26.2"
+  },
+  "engines": {
+    "bun": ">=1.0.0"
+  },
+  "author": "2matheww",
+  "license": "MIT"
+}
