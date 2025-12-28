@@ -13,7 +13,7 @@ bun add hanni
 ## Struktur Proyek
 
 ```
-/t3st
+/hannapi
 ├─ public/           # Folder untuk file statis (HTML, CSS, Gambar)
 │   ├─ index.html
 │   └─ favicon.ico
